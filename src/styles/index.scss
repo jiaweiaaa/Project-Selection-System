@@ -1,0 +1,19 @@
+@import './variables.scss';
+
+body {
+    height: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    background-color: #f8f8f8;
+}
+
+
+#app {
+    height: 100%;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
